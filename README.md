@@ -76,7 +76,7 @@ Avaliação QA Ten/
 
 3. Para gerar e visualizar o relatório HTML dos testes:
    ```sh
-   npx playwright show-report
+   npx playwright show-report reports
    ```
    O relatório estará disponível em `BackEnd/reports/index.html`.
 
@@ -94,7 +94,7 @@ Avaliação QA Ten/
 
 3. Para gerar e visualizar o relatório HTML dos testes:
    ```sh
-   npx playwright show-report
+   npx playwright show-report reports
    ```
    O relatório estará disponível em `FrontEnd/reports/index.html`.
 

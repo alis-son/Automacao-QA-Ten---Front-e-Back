@@ -56,6 +56,5 @@ test('PUT /usuarios/:id - editar usuário com email já cadastrado', async ({ re
   });
   //expect(response.status()).toBe(400);
   const body = await response.json();
-  console.log(body);
   expect(body.message).toMatch(/Este email já está sendo usado/i);
 });
