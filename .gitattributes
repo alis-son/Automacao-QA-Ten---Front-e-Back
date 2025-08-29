@@ -1,0 +1,9 @@
+*.ts linguist-language=TypeScript
+
+*.js linguist-language=JavaScript
+
+reports/* linguist-vendored
+test-results/* linguist-vendored
+*.html linguist-vendored
+
+node_modules/* linguist-vendored
