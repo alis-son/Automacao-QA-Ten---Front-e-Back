@@ -1,0 +1,1 @@
+{"name":"qa-ten-frontend","version":"1.0.0","description":"Testes UI com Playwright para avaliação QA TEN","scripts":{"test":"playwright test","report":"playwright show-report"},"devDependencies":{"@playwright/test":"^1.55.0"},"dependencies":{"@faker-js/faker":"^10.0.0"}}
